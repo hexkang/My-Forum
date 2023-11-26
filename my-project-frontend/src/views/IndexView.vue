@@ -182,7 +182,7 @@ function deleteAllNotification() {
                                         <el-icon>
                                             <School/>
                                         </el-icon>
-                                        海文考研
+                                        考研
                                         <el-tag style="margin-left: 10px" size="small">合作机构</el-tag>
                                     </template>
                                 </el-menu-item>
